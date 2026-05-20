@@ -1,0 +1,8 @@
+{
+  "name": "Bistro Restaurant, Ordering & Reservations",
+  "description": "A premium restaurant application featuring online ordering with live status tracking, and table reservations with an interactive visual floor seating map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
